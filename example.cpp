@@ -1,3 +1,4 @@
+#include "CppJS.h"
 
 function myFunction() {
   var a = 0;
